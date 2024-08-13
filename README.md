@@ -1,5 +1,5 @@
 ![Banner](https://github.com/markdhareal/markdhareal/blob/main/github-banner.png)
-Hello! I’m an enthusiastic learner diving into the world of Data Science, Machine Learning, and Artificial Intelligence. While I’m still in the early stages of my professional journey, I’m passionate about applying my skills through hands-on projects and continuous learning. 📊🤖<br><br>I’m currently immersing myself in real-world challenges and expanding my knowledge base by working on various projects. My goal is to blend data insights with innovative machine learning techniques to drive impactful solutions. 🚀💡<br><br>I’m excited about the endless possibilities in this field and am always eager to connect with others who share my interests or have valuable insights to share. Let’s explore and innovate together! 🌐✨
+Hello! I’m an enthusiastic learner diving into the world of Data Science, Machine Learning, and Artificial Intelligence. While I’m still in the early stages of my professional journey, I’m passionate about applying my skills through hands-on projects and continuous learning. 📊🤖<br><br> I’m excited about the endless possibilities in this field and am always eager to connect with others who share my interests or have valuable insights to share. Let’s explore and innovate together! 🌐✨
 
 
 ## 🌐 Socials:
