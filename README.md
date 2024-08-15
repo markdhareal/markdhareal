@@ -2,6 +2,8 @@
 Hello! I’m a Computer Engineer with a passion for diving into the world of Data Science, Machine Learning, and Artificial Intelligence. While I’m still in the early stages of my professional journey, I’m excited about applying my skills through hands-on projects and continuous learning. 📊🤖<br/><br/>
 I’m enthusiastic about the endless possibilities in this field and am always eager to connect with others who share my interests or have valuable insights to share. Let’s explore and innovate together! 🌐✨
 
+---
+[![](https://visitcount.itsvg.in/api?id=markdhareal&icon=6&color=6)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-dharyl) 
@@ -24,8 +26,5 @@ I’m enthusiastic about the endless possibilities in this field and am always e
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=markdhareal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=markdhareal&icon=6&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
