@@ -1,4 +1,4 @@
-![Banner](https://github.com/markdhareal/markdhareal/blob/main/github-banner.png)
+![Boxing](https://github.com/markdhareal/markdhareal/blob/main/github-banner.png)
 Hello! I’m a Computer Engineer with a passion for diving into the world of Data Science, Machine Learning, and Artificial Intelligence. While I’m still in the early stages of my professional journey, I’m excited about applying my skills through hands-on projects and continuous learning. 📊🤖<br/><br/>
 I’m enthusiastic about the endless possibilities in this field and am always eager to connect with others who share my interests or have valuable insights to share. Let’s explore and innovate together! 🌐✨
 
